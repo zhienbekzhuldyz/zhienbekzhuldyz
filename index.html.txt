@@ -1,0 +1,19 @@
+ <!DOCTYPE html>
+<html>
+<head>
+<body>
+<body style="background-color:lightgreen;">
+<P Align=center>
+<p style="color:black;">Толқындар.Толқын ұғымдары.</p>HTML тілінде
+<h2> Тербелістерді кандай бір ортада таралуын толқын деп атайды.</h2>
+<br><br><br>
+<img src="https://nauka.club/wp-content/auploads/862478/poperechnye_volny.jpg" width="142"  height="142">
+<br>
+<h5 style="font-size:60px;">
+<br>
+<a href="https://wixsite.com/zhuldyz">Студенттерге арналған сайт </a>
+</h2>
+</body>
+</head>
+</html> 
+
